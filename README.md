@@ -16,3 +16,8 @@ This is site for very imp sites for deep learning research 2022
 - https://eugeneyan.com/   (Applied science, ml systems)
 - https://recsysml.substack.com/ (Search and Recommender Systems)
 - https://lilianweng.github.io/lil-log/ (Core DL/CV)
+
+
+## HPML
+
+- http://blog.gaurav.ai/
