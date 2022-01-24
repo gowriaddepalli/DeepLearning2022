@@ -21,6 +21,7 @@ This is site for very imp sites for deep learning research 2022
 ## HPML
 
 - http://blog.gaurav.ai/
+- https://www.kdnuggets.com/2021/06/efficiency-deep-learning-part1.html
 
 
 ## leetcode patterns:
