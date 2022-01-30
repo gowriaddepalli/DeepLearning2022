@@ -24,6 +24,10 @@ This is site for very imp sites for deep learning research 2022
 - http://blog.gaurav.ai/
 - https://www.kdnuggets.com/2021/06/efficiency-deep-learning-part1.html
 
+## Cheatsheets:
+
+- https://sites.google.com/view/datascience-cheat-sheets
+
 
 ## leetcode patterns:
 
