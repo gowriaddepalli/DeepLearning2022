@@ -32,3 +32,7 @@ This is site for very imp sites for deep learning research 2022
 ## leetcode patterns:
 
 - https://seanprashad.com/leetcode-patterns/
+
+## Interview Questions:
+
+- https://www.interviewquery.com/p/facebook-machine-learning-interview-questions
