@@ -36,3 +36,7 @@ This is site for very imp sites for deep learning research 2022
 ## Interview Questions:
 
 - https://www.interviewquery.com/p/facebook-machine-learning-interview-questions
+
+## Career Advice:
+
+- http://patrickhalina.com/posts/ml-student-career-advice/
