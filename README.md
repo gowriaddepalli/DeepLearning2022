@@ -18,6 +18,7 @@ This is site for very imp sites for deep learning research 2022
 - https://lilianweng.github.io/lil-log/ (Core DL/CV)
 - https://applyingml.com/ (Experiences)
 - https://pythonspeed.com/ (HPML)
+- https://www.pinterestlabs.com/publications/applied-science-computer-vision/ (Pinterest)
 
 ## HPML
 
