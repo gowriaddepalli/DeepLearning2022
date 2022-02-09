@@ -41,3 +41,7 @@ This is site for very imp sites for deep learning research 2022
 ## Career Advice:
 
 - http://patrickhalina.com/posts/ml-student-career-advice/
+
+## AI+ HCI
+
+- https://pair.withgoogle.com/guidebook
